@@ -1,3 +1,9 @@
+/* Grupo-de-robotica-IEEE  - UFPB
+ *  Programa : IHM  - ligando um led com botao
+ * Instrutores: Abraão Állysson e Yuri Oliveira 
+ */
+ 
+
 int led=13;      // led no pino 13
 int botao=12;  // botão no pino 12
 int var=0;       // valor instantaneo enviado pelo botão
