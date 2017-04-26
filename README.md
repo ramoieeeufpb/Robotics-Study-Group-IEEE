@@ -1,10 +1,9 @@
 # Grupo de robotica IEEE - UFPB
-O Grupo de Estudo de Robótica tem como propósito contribuir no aprendizado de membros iniciantes, onde eles possa desenvolver seus conhecimentos em eletrônica, programação e microcontroladores (Arduino) por meio das práticas documentadas em roteiros.
+The Robotics Study Group aims to contribute to the learning of newcomers, where they can develop their knowledge in electronics, programming and microcontrollers (Arduino) through the practices documented in scripts.
+
 
 ### Informações
-Aulas estão sendo ministrada por [Abraão Állysson](https://br.linkedin.com/in/abraaohonorio) e [Yuri Oliveira](https://www.facebook.com/yuri.oliveira.509), os encontros serão quinzenais e o próximo encontro será dia *31/03 ás 11 horas*.
-
-
+Lessons are being given by[Abraão Állysson](https://br.linkedin.com/in/abraaohonorio) and [Yuri Oliveira](https://www.facebook.com/yuri.oliveira.509).
 
 
 ### Have a question or suggestion?			
