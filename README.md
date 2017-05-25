@@ -2,7 +2,7 @@
 The Robotics Study Group aims to contribute to the learning of newcomers, where they can develop their knowledge in electronics, programming and microcontrollers (Arduino) through the practices documented in scripts.
 
 
-### Informações
+### Information
 Lessons are being given by [Abraão Állysson](https://br.linkedin.com/in/abraaohonorio) and [Yuri Oliveira](https://www.facebook.com/yuri.oliveira.509).
 
 
